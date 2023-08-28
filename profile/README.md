@@ -1,10 +1,10 @@
 # PSD Core
 
-Welcome to PSD Core, an organization dedicated to developing and promoting open-source projects related to PSD (Photoshop Document) file format.
+Welcome to PSD Core organization.
 
 ## About
 
-PSD Core aims to provide a collection of tools, libraries, and resources for working with PSD files. Our goal is to simplify the process of reading, writing, and manipulating PSD files, making it easier for developers to integrate PSD support into their applications.
+PSD Core aims to provide a collection of tools, libraries, and resources.
 
 ## Projects
 
