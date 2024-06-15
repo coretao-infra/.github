@@ -1,6 +1,6 @@
-# PSD Core
+# ICTD TAO CORE Infrastructure
 
-Welcome to UNICEF ICTD Tech Architecture | CORE Infrastructure GitHub Organization.
+Welcome to UNICEF ICTD Tech Architecture and Ops | CORE Infrastructure GitHub Organization.
 
 ## About
 
