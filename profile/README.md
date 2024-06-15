@@ -1,10 +1,10 @@
 # PSD Core
 
-Welcome to PSD Core organization.
+Welcome to UNICEF ICTD Tech Architecture | CORE Infrastructure GitHub Organization.
 
 ## About
 
-PSD Core aims to provide a collection of tools, libraries, and resources.
+TAO CORE collects scripts, tools, artifacts, samples and resources.
 
 ## Projects
 
@@ -14,8 +14,8 @@ PSD Core aims to provide a collection of tools, libraries, and resources.
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in contributing to any of our projects, please check out the respective repositories and follow the contribution guidelines.
+This Org is closed to Staff, thank you for your interest.
 
 ## Contact
 
-For any inquiries or questions, you can reach out to us at 
+For any inquiries or questions, create an Issue in any of our repos.
